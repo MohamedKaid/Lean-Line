@@ -33,9 +33,8 @@ Built by **Mohamed Kaid**
 <img width="230" height="600" alt="Screenshot 2026-03-11 at 10 27 23 AM" src="https://github.com/user-attachments/assets/f1121aad-4215-4e39-bc27-22ad61fe5e8b" />
 
 ### ⚙️ Settings
-<img width="230" height="600" alt="Screenshot 2026-03-11 at 10 27 23 AM" src="https://github.com/user-attachments/assets/25694f32-4451-4a42-9eaf-40c534fcc7b5" />
+<img width="230" height="600" alt="Screenshot 2026-03-11 at 10 27 35 AM" src="https://github.com/user-attachments/assets/b6b0a677-0016-46e7-a096-0d85ddbe2f20" />
 
-> Place your images inside a `screenshots` folder in your repository.
 
 ---
 
